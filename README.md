@@ -7,5 +7,5 @@ Steps to run the project
    command -> cd techconative-react-assignment
 3. Open this folder in VS Code
 4. run the following commands one by one
-   npm install
-   npm run dev
+5. npm install
+6. npm run dev
